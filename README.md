@@ -1,4 +1,4 @@
-![os badge](https://img.shields.io/badge/OS-Windows%2010-informational) ![text editor badge](https://img.shields.io/badge/Text%20editor-vim-green) ![discord badge](https://img.shields.io/badge/discord-Julie%20Pilgrim%233328-blue) ![languages badge](https://img.shields.io/badge/Languages-Javascript-blueviolet)   
+![os badge](https://img.shields.io/badge/OS-Windows%2010-informational) ![laptop](https://img.shields.io/badge/Laptop%20OS-Arch-%231793d1) ![text editor badge](https://img.shields.io/badge/Text%20editor-vim-green) ![discord badge](https://img.shields.io/badge/discord-Julie%20Pilgrim%233328-blue) ![languages badge](https://img.shields.io/badge/Languages-Javascript-blueviolet)   
 sup, i'm zoey, i go by many names(julie, to name one) \
 i'm also the founder of [thighhighedfurries](https://github.com/thighhighedfurries), the best organization \
 pronouns are she/they. \
