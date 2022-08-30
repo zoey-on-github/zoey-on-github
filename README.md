@@ -2,7 +2,7 @@
 sup, i'm zoey, i go by many names(julie, to name one) \
 i'm the founder of [thighhighedfurries](https://github.com/thighhighedfurries), the best organization \
 pronouns are she/they. \
-if you want to contact me and don't want to use discord, im available on twt @scott_feels, and im available on irc(libera.chat), usually on ##furry and #archlinux-offtopic  
+if you want to contact me and don't want to use discord or twitter, im available on irc(libera.chat), usually on ##furry and #archlinux-offtopic  
 [![ github stats](https://github-readme-stats.vercel.app/api?username=zoey-on-github&theme=gruvbox&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) 
 <!---
 zoey-on-github/zoey-on-github is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
