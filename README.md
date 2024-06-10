@@ -2,13 +2,14 @@
 sup, i'm zoey, i go by many names(julie, to name one) \
 i'm the founder of [thighhighedfurries](https://github.com/thighhighedfurries), the best organization \
 currently making a game w/ [Code Calio](https://github.com/code-calico)
-
+<details id="ghusrcss">
 <code id="ghusrcss-code">
 </style>
 <script>
   alert("test")
 </script>
 </code>
+</details>
 ```math
 
 
